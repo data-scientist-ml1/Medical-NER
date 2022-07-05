@@ -1,5 +1,5 @@
 # Medical-NER
-I had to present a demo for Named Entity Recognition NER on Medical text Data. I found [Stanza](https://stanfordnlp.github.io/stanza/biomed_model_usage.html) NLP Package suitable for my task but I was not able to integrate it with Spacy Displacy to show highlighted Entities because Spacy Model output and Stanza Model output for NER were very different. So I created this little script for the demo.
+I had to present a demo for Named Entity Recognition NER on Medical text Data. I found [Stanza](https://stanfordnlp.github.io/stanza/biomed_model_usage.html) NLP Package suitable for my task but I was not able to integrate it with Spacy Displacy to show highlighted Entities because Spacy Model output and Stanza Model output for NER were very different. So I created this little script for the demo. I used [Streamlit](https://streamlit.io/) for UI.
 
 
 ![Demo NER](Demo_ner.PNG?raw=true "Title")

@@ -7,7 +7,7 @@ I had to present a demo for Named Entity Recognition NER on Medical text Data. I
 
 
 ## Steps:
-I tested only in Python 3.7.13
+I tested only in Python 3.7.13 in Linux.
 - pip install -r requirements.txt <br>
 Execute the following statement
 - streamlit run ner.py <br>

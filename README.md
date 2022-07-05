@@ -19,5 +19,5 @@ I tested only in Python 3.7.13 in Linux.
 - pip install -r requirements.txt <br>
 Execute the following statement
 - streamlit run ner.py <br>
-Open URL in browser.
+Open URL in browser. <br>
 Note: It will download some packages for the first time. So it might take some time to start. See terminal output for that.

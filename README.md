@@ -6,6 +6,14 @@ I had to present a demo for Named Entity Recognition NER on Medical text Data. I
 
 
 
+# NER Model:
+I have used i2b2 clinical NER model trained on publicly available [MIMIC-III database](https://mimic.mit.edu/). It has been trained to extract following NER: 
+- PROBLEM
+- TEST
+- TREATMENT
+
+For more information, you can visit [stanza website](https://stanfordnlp.github.io/stanza/available_biomed_models.html).
+
 ## Steps:
 I tested only in Python 3.7.13 in Linux.
 - pip install -r requirements.txt <br>

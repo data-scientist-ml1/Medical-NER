@@ -20,3 +20,4 @@ I tested only in Python 3.7.13 in Linux.
 Execute the following statement
 - streamlit run ner.py <br>
 Open URL in browser.
+Note: It will download some packages for the first time. So it might take some time to start. See terminal output for that.
